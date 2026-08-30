@@ -6,4 +6,4 @@ from typing import Any
 class Command:
     name: str
     arguments: dict[str, Any]
-    
+        
