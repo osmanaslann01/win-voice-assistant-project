@@ -1,0 +1,5 @@
+[project]
+name = "win-voice-assistant"
+version = "0.1.0"
+description = "A modular Windows voice assistant"
+requires-python = ">=3.13,<3.14"
